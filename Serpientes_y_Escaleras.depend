@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1590633176 source:c:\users\tony jaime\desktop\c++\poo 2\serpientes_y_escaleras\main.cpp
+	<bits/stdc++.h>
+	"MyGame.h"
+	"CDado.h"
+	"Player.h"
+
+1589718076 c:\users\tony jaime\desktop\c++\poo 2\serpientes_y_escaleras\include\mygame.h
+	<bits/stdc++.h>
+
+1589718076 c:\users\tony jaime\desktop\c++\poo 2\serpientes_y_escaleras\include\cdado.h
+	<ctime>
+	<cstdlib>
+
+1591593491 c:\users\tony jaime\desktop\c++\poo 2\serpientes_y_escaleras\include\player.h
+	<bits/stdc++.h>
+
+1589718076 source:c:\users\tony jaime\desktop\c++\poo 2\serpientes_y_escaleras\src\cdado.cpp
+	"CDado.h"
+
+1591593478 source:c:\users\tony jaime\desktop\c++\poo 2\serpientes_y_escaleras\src\player.cpp
+	<bits/stdc++.h>
+	"Player.h"
+	"MyGame.h"
+	"CDado.h"
+
+1591624929 source:c:\users\tony jaime\desktop\c++\poo 2\serpientes_y_escaleras\src\mygame.cpp
+	<bits/stdc++.h>
+	"MyGame.h"
+	"CDado.h"
+	"Player.h"
+	"Casilla.h"
+
+1590645774 source:c:\users\tony jaime\desktop\c++\poo 2\serpientes_y_escaleras\src\casilla.cpp
+	<bits/stdc++.h>
+	"Casilla.h"
+
+1590647173 c:\users\tony jaime\desktop\c++\poo 2\serpientes_y_escaleras\include\casilla.h
+	<bits/stdc++.h>
+
+1590625976 source:c:\users\torti\documents\c++\poo 2\serpientes_y_escaleras\main.cpp
+	<bits/stdc++.h>
+	"MyGame.h"
+	"CDado.h"
+	"Player.h"
+
+1589710876 c:\users\torti\documents\c++\poo 2\serpientes_y_escaleras\include\mygame.h
+	<bits/stdc++.h>
+
+1589710876 c:\users\torti\documents\c++\poo 2\serpientes_y_escaleras\include\cdado.h
+	<ctime>
+	<cstdlib>
+
+1591586291 c:\users\torti\documents\c++\poo 2\serpientes_y_escaleras\include\player.h
+	<bits/stdc++.h>
+
+1590638574 source:c:\users\torti\documents\c++\poo 2\serpientes_y_escaleras\src\casilla.cpp
+	<bits/stdc++.h>
+	"Casilla.h"
+
+1590639973 c:\users\torti\documents\c++\poo 2\serpientes_y_escaleras\include\casilla.h
+	<bits/stdc++.h>
+
+1589710876 source:c:\users\torti\documents\c++\poo 2\serpientes_y_escaleras\src\cdado.cpp
+	"CDado.h"
+
+1591617729 source:c:\users\torti\documents\c++\poo 2\serpientes_y_escaleras\src\mygame.cpp
+	<bits/stdc++.h>
+	"MyGame.h"
+	"CDado.h"
+	"Player.h"
+	"Casilla.h"
+
+1591586278 source:c:\users\torti\documents\c++\poo 2\serpientes_y_escaleras\src\player.cpp
+	<bits/stdc++.h>
+	"Player.h"
+	"MyGame.h"
+	"CDado.h"
+
